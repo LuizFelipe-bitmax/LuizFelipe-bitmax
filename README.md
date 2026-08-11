@@ -287,42 +287,6 @@ Experiência adquirida em projeto desenvolvido no contexto da **UFAM em parceria
 
 ---
 
-# 📚 Atualmente Estudando
-
-```text
-luiz@ufam:~/desenvolvimento$ cat roadmap.txt
-
-[ BACKEND ]
-├── Python avançado
-├── FastAPI
-├── APIs REST
-├── SQLAlchemy
-├── PostgreSQL
-├── Arquitetura de sistemas
-└── Testes automatizados
-
-[ INTELIGÊNCIA ARTIFICIAL ]
-├── Fundamentos de IA
-├── Machine Learning
-├── Prompt Engineering
-├── LLMs
-└── Aplicações de IA
-
-[ DEVOPS ]
-├── Docker
-├── Git/GitHub
-├── CI/CD
-└── Cloud
-
-[ PRÓXIMOS PASSOS ]
-├── Redis
-├── RabbitMQ
-├── Celery
-├── AWS
-└── Arquitetura distribuída
-```
-
----
 
 
 # 📫 Entre em Contato
